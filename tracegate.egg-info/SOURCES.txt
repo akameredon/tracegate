@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+tests/test_core.py
+tracegate/__init__.py
+tracegate/cli.py
+tracegate/core.py
+tracegate.egg-info/PKG-INFO
+tracegate.egg-info/SOURCES.txt
+tracegate.egg-info/dependency_links.txt
+tracegate.egg-info/entry_points.txt
+tracegate.egg-info/requires.txt
+tracegate.egg-info/top_level.txt
